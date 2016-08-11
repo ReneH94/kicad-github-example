@@ -1,0 +1,2 @@
+# kicad-github-example
+test
